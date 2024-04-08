@@ -2,5 +2,5 @@
 # new commit
 # commit.
 # Done
-# Webhook configured
-# Webhook successfuly configured
+# Webhook configure
+# Webhook Configured
