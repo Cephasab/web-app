@@ -3,6 +3,4 @@
 # commit.
 # Done
 # Webhook configured
-# Trying webhook
-# Webhook successfully configured
-# Trying webhook
+# Webhook successfuly configured
